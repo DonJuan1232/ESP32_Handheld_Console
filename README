@@ -1,0 +1,5 @@
+This project is for a self designed handheld console.
+The idea is that I create a base framework so that other developers can easily create games for this "platform"
+
+Because I wanted to learn how to design a PCB I decided to design a PCB (Also because I really didnt want to solder a lot of buttons to a prototype board :) )
+Later in the projects life cycle I will add all the PCB and 3d model design files.
