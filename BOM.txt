@@ -1,0 +1,14 @@
+Bill Of Materials for 1 "game console"
+
+1x shell
+1x lid
+6x buttons
+1x 2.4 inch tft ILI9341 lcd display 
+1x 30 pin ESP32
+5x Tactile Pushbutton Switch Momentary 4pin 6*6*6mm
+1x small toggle switch | built in measurements: 8.5 x 13.5mm
+1x Li-Po Battery 3.7V 1200mAh
+1x Seeed Studio Lipo Rider Plus
+4x 8mm long screws with a 1.8mm diameter
+
+Hot glue to keep battery components in place
